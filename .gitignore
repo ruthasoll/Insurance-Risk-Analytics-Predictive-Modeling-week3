@@ -1,2 +1,8 @@
 new_venv/
-data
+/data/
+*.csv
+*.xlsx
+/.ipynb_checkpoints
+*.pyc
+__pycache__/
+.env
